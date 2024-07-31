@@ -2,8 +2,9 @@
 The rapid increase in the number of vehicles on roads has necessitated the development of effective solutions to mitigate traffic congestion. Automatic Vehicle Detection (AVD) systems have become crucial for real-time traffic observation and management, forming an integral part of Intelligent Transportation Systems (ITS) and smart city applications. The advent of self-driving cars and advanced driver assistance systems further emphasizes the need for precise and reliable AVD.
 Despite advancements in AVD, there is significant room for improvement, especially under diverse weather and lighting conditions. Traditional vehicle detection systems often struggle with varying environmental factors, leading to decreased performance. Addressing these challenges is essential for enhancing the accuracy and reliability of AVD systems.
 ## Report
-To get detailed information on the methodology and working of the model, view this [VDVWC Report.pdf](https://github.com/user-attachments/files/16440641/VDVWC_Report.pdf)
+To get detailed information on the methodology and working of the model, view this [VDVWC_Report.pdf](https://github.com/user-attachments/files/16440708/VDVWC_Report.pdf)
 ## a) Dataset
+
 This research introduces a novel vehicle detection system leveraging the JUVDv2-VDVWC dataset. This dataset is designed to benchmark vehicle detection performance under varied weather and lighting conditions, featuring 2,600 training images, and 200 validation images annotated in the YOLO format.
 
 ## b) Proposed Methodology
